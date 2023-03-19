@@ -1,2 +1,2 @@
-# Udacity-Data-Visualization-Nanodegree
-Projects in fulfillment of the data visualization nanodegree on udacity. Tools used includes flourish, tableau, powerpoint.
+# Image Classification
+Projects in fulfillment of the `Introduction to Machine Learning Nanodegree` on `Udacity`
